@@ -1,4 +1,4 @@
-voila==0.5.11
-ipywidgets
+ipywidgets>=7.6.0
+voila>=0.3.0
 numpy
 matplotlib
